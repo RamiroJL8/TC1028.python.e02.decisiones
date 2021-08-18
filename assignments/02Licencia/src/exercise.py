@@ -1,7 +1,9 @@
 
 def main():
-    #escribe tu código abajo de esta línea
-    pass
+    edad = int(input("Ingresa tu edad: "))
+    # Escribe el código adecuado para completar el programa
+    # Para pedir el dato de la idetificación oficial emplea este mensaje:
+    # "¿Tienes identificación oficial? (s/n): "
 
 
 if __name__ == '__main__':
